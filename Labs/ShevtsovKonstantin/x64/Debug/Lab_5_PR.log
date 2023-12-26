@@ -1,0 +1,9 @@
+﻿  Lab_5_PR.cpp
+C:\Users\Admin\source\repos\Lab_sem_1\Lab_5\Lab_5_PR\Lab_5_PR.cpp(92,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Lab_sem_1\Lab_5\Lab_5_PR\Lab_5_PR.cpp(101,34): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Lab_sem_1\Lab_5\Lab_5_PR\Lab_5_PR.cpp(136,34): warning C4244: аргумент: преобразование "__int64" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Lab_5_PR.vcxproj -> C:\Users\Admin\source\repos\Lab_sem_1\Lab_5\x64\Debug\Lab_5_PR.exe
